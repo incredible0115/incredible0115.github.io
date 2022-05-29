@@ -1,17 +1,14 @@
 ## Hi there 👋
 
- I'm Nhlanhla. 
+ I'm Ashvin Nair. 
 
-A Software Developer, Ethereum Core Developer Apprentice and an Open Source contributor. I'm currently an **Ethereum Core Developer Apprentice** at **[Ethereum](http://www.ethereum.org/)**.
+A Full stack | Blockchain Developer, Ethereum Core Developer Apprentice and an Open Source contributor. 
+I'm currently an **Ethereum Core Developer Apprentice** at **[Ethereum](http://www.ethereum.org/)**.
 Contributing to building a decentralized web 3.0.
 
 - 📚- I'm currently learning more about **Zero Knowledge Proofs and Ethereum Virtual Machine(EVM)**.
 
-- :writing_hand: - I often write a [blog](https://hackmd.io/@Nhlanhla) to share my learnings with the community.
-
-- :bird: - I tweet about Ethereum Development, other blockchain development, Software development and OpenSource side projects on [Twitter](https://twitter.com/ZKTriumph).
-
-- :computer: - Have a look at my [Portfolio](https://nhlanhlahasane.netlify.app) for more details.
+- :computer: - Have a look at my [Portfolio](https://incredible0115.github.io) for more details.
 
 ### ⚡ Technologies
 
